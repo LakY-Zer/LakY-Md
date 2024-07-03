@@ -1,15 +1,15 @@
-<h1 align="center">GSS BOTWA-MD</h1>
+<h1 align="center">ʟᴀᴋʏ_Mᴅ</h1>
  
 <p align="center">  
-  <a href="https://youtu.be/WcA7GZuaN0A">
-   <img alt="botgsswa" height="300" src="https://github.com/Ethix-Xsid.png">
+  <a href="Simple Bot">
+   <img alt="Rich features" height="300" src="">
     
 <p align="center">
 <a href="https://github.com/Ethix-Xsid"><img title="Author" src="https://img.shields.io/badge/GSS-BOTWA-black?style=for-the-badge&logo=WhatsApp"></a>
 
 
  
-<p align="center"> Introducing GSS BOTWA MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing ʟᴀᴋʏ_Mᴅ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 
    <p align="center">
@@ -21,23 +21,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
 
 
-
-  <p align="center">
-<a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCWHA-PreVSVaYhDTAiUipCA"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   
-<p align="center">
-<a href="https://github.com/Ethix-Xsid/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ethix-Xsid?color=red&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ethix-Xsid/Ethix-Xsid2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ethix-Xsid/Ethix-Xsid2?color=red&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ethix-Xsid/Ethix-Xsid2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2"><img title="Open Source" src="https://img.shields.io/badge/Author-ETHIX SID X %20HASEEB-red?v=103"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/"><img title="Size" src="https://img.shields.io/github/repo-size/Ethix-Xsid/Ethix-Xsid2?style=flat-square&color=green"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
 
 ---
 ### 1. FORK THIS REPO
