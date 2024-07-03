@@ -75,7 +75,6 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 ## `DEVELOPERS`
 <div align="left">
   <a href="[https://github.com/LakY-Zer]"><img src="https://telegra.ph/file/febcbd7817a78abe91eaf.jpg" width="150" height="200" alt="Ash"/></a>
-a>
  </div>
 <br>
 <h4 align="left">
