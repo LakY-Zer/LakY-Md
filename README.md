@@ -5,43 +5,22 @@
    <img alt="botgsswa" height="300" src="https://telegra.ph/file/febcbd7817a78abe91eaf.jpg">
     
 <p align="center">
-<a href="https://wa.me//+94783337816"><img title="Author" src="https://img.shields.io/badge/Laky Zer - Whatsapp-black?style=for-the-badge&logo=WhatsApp"></a>
+<a href="https://wa.me//+94783337816"><img title="Author" src="https://img.shields.io/badge/Contact on whatsapp - laky zer-black?style=for-the-badge&logo=WhatsApp"></a>
 
 
  
-<p align="center"> Introducing GSS BOTWA MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing ʟᴀᴋʏ_Mᴅ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
-
-   <p align="center">
-  <a aria-label="GSS BOTWA MD is free to use" href="https://youtube.com/@mhmodsofc" target="_blank">
-    <img alt="MH MODS OFC Yt" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
-  </a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{chhaseeb47}/count.svg" alt="chhaseeb47 :: Visitor's Count" /></p>
 
 
 
-  <p align="center">
-<a href="https://whatsapp.com/channel/0029Va8SjGU1noyxsYBA2K2e"><img src="https://img.shields.io/badge/Connect on WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCWHA-PreVSVaYhDTAiUipCA"><img src="https://img.shields.io/badge/Subcribe On Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w"><img src="https://img.shields.io/badge/Join WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-   
-<p align="center">
-<a href="https://github.com/Ethix-Xsid/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ethix-Xsid?color=red&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ethix-Xsid/Ethix-Xsid2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ethix-Xsid/Ethix-Xsid2?color=red&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ethix-Xsid/Ethix-Xsid2?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2"><img title="Open Source" src="https://img.shields.io/badge/Author-ETHIX SID X %20HASEEB-red?v=103"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/"><img title="Size" src="https://img.shields.io/github/repo-size/Ethix-Xsid/Ethix-Xsid2?style=flat-square&color=green"></a>
-<a href="https://github.com/Ethix-Xsid/Ethix-Xsid2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
 
 ---
 ### 1. FORK THIS REPO
-<a href='https://github.com/Ethix-Xsid/Ethix-Xsid2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 ### 2. GET SESSION VIA PAIR CODE
@@ -95,17 +74,15 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 
 ## `DEVELOPERS`
 <div align="left">
-  <a href="[https://github.com/Ethix-Xsid]"><img src="https://github.com/Ethix-Xsid.png" width="150" height="200" alt="Ash"/></a>
-<a href="[https://github.com/chhaseeb47]"><img src="https://github.com/chhaseeb47.png" width="200" height="200" alt="Ash"/></a>
+  <a href="[https://github.com/LakY-Zer]"><img src="https://telegra.ph/file/febcbd7817a78abe91eaf.jpg" width="150" height="200" alt="Ash"/></a>
+a>
  </div>
 <br>
 <h4 align="left">
 
-| [SIDHARTH ](https://github.com/Ethix-Xsid) |
+| [Malith Lakshan ](https://github.com/LakY-Zer) |
 | Owner, Developer, Bug Fixer, Maintainer, updates|
 
-| [ CH HASEEB ](https://github.com/chhaseeb47) |
-| CO.Devloper |
 
 
 
@@ -113,20 +90,14 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 <h4 align="left">
 
   
-***Tap On Logo To Subscribe MY YouTube Channel***
-</p>
- <p align="left">
-  <a href="https://www.youtube.com/@SinghaniyaTech0744?sub_confirmation=1">
-    <img alt=Support height="70" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
-  </p>
     
  ***Tap On Logo To Contat Me***
 
 
  <p align="left">
-<a href="mailto:bsid4961@gmail.com"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
+<a href="maipakabaahhm"><img title="Author" src="https://img.shields.io/badge/GMAIL-ME-black?style=for-the-badge&logo=Gmail"></a>
  <p align="left"> 
-  <a href="https://wa.me/919142294671?text=Hi+sid+Sir...+I+need+some+help+in+Gss_Botwa"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://wa.me/94783337816?text=Hi+Sir...+I+need+some+help"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
   
    
 
@@ -143,7 +114,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
-
+By Malith Lakshan
 ---
 
 </p>
