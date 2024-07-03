@@ -1,8 +1,8 @@
 <h1 align="center">ʟᴀᴋʏ_Mᴅ</h1>
  
 <p align="center">  
-  <a href="Simple Bot">
-   <img alt="Rich features" height="300" src="">
+  <a href="Simple Bot by Rich Features..">
+   <img alt="https://telegra.ph/file/febcbd7817a78abe91eaf.jpg" height="300" src="">
     
 <p align="center">
 <a href="https://github.com/Ethix-Xsid"><img title="Author" src="https://img.shields.io/badge/GSS-BOTWA-black?style=for-the-badge&logo=WhatsApp"></a>
