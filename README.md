@@ -1,11 +1,11 @@
 <h1 align="center">ʟᴀᴋʏ_Mᴅ</h1>
  
 <p align="center">  
-  <a href="https://wa.me//+94783337816">
+  <a href="https://telegra.ph/file/febcbd7817a78abe91eaf.jpg">
    <img alt="botgsswa" height="300" src="https://telegra.ph/file/febcbd7817a78abe91eaf.jpg">
     
 <p align="center">
-<a href="https://github.com/Ethix-Xsid"><img title="Author" src="https://img.shields.io/badge/GSS-BOTWA-black?style=for-the-badge&logo=WhatsApp"></a>
+<a href="https://wa.me//+94783337816"><img title="Author" src="https://img.shields.io/badge/Laky Zer - Whatsapp-black?style=for-the-badge&logo=WhatsApp"></a>
 
 
  
